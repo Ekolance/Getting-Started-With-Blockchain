@@ -56,4 +56,5 @@ Gets you started with being a blockchain Developer and provides you some basic o
   (this list is awesome but a little overwhelming)"
 
 12. Introduction to Blockchain Oracles What are oracles - https://youtu.be/ZJfkNzyO7-U
+
 13. Introduction to Solidity https://youtu.be/3i203iTmcFc
