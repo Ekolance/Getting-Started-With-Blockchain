@@ -1,6 +1,6 @@
-# Becoming-a-blockchain-Developer
+# Getting Started with Blockchain
 
-Gets you started with being a blockchain Developer and provides you some basic overview of blockchain tedchnology.
+Provides some basic overview of blockchain technology.
 
 1. Becoming a blockchain developer
 
