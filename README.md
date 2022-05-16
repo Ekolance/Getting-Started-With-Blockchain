@@ -23,8 +23,6 @@ Provides some basic overview of blockchain technology.
 
 6. Types of Blockchains https://youtu.be/FcfPU3rYVAk
 
-7. Generations of Blockchain Technologies https://youtu.be/FcfPU3rYVAk
-
 8. Applications of Blockchain technology (DEFI, Cryptocurrency, NFTs e.t.c)
 
 - NFTs explained: https://youtu.be/NNQLJcJEzv0
